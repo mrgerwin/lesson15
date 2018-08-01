@@ -5,7 +5,8 @@ Finish the Encryption App
 2. Use the App to encrypt a file that is several lines long.
 3. Use the app to encrypt a file that is atleast 500 characters long.
 4. Swap your files and associated OTP files with another student.
-5. Use your app to decrypt their files using the encrypted file and associated OPT files
+5. Use your app to decrypt their files using the encrypted file and associated OPT files.
+6. Upload all files from today to the repository to show that you have successfully encrypted and decrypted file
 
 ### Discussion Questions  
 *In this section respond to the questions based upon the drawbacks brought up at the end of the Secret Agent Chat lesson.*
