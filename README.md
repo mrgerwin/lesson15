@@ -1,7 +1,7 @@
 # lesson15
 Finish the Encryption App
 
-1. Using the finished app wordproccessor0-4, change your app so that it will make and load a OTP.
+1. Using the finished app wordproccessor0-5, change your app so that it will make and load a OTP.
 2. Use the App to encrypt a file that is several lines long.
 3. Use the app to encrypt a file that is atleast 500 characters long.
 4. Swap your files and associated OTP files with another student.
